@@ -11,8 +11,7 @@
                 {
                     "name": "AMAZON.CancelIntent",
                     "samples": [
-                        "cancel",
-                        "stop",
+                        "cancel",                        
                         "exit"
                     ]
                 },
