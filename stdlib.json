@@ -1,0 +1,5 @@
+{
+  "name": "knighthawk127/alexa-video",
+  "timeout": 10000,
+  "connector": true
+}
